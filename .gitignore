@@ -36,6 +36,10 @@ horizon-mod/
 .workbuddy-ai/
 .zcodeignore
 
+# Архив удалённых исходников и портированные чужие классы — только локально
+ported/
+postman/
+
 # OS junk
 Thumbs.db
 Desktop.ini
